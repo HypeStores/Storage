@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://download1509.mediafire.com/mme1rbohg1igi_NUE8TpbOH6CItuAFh5LxhDv26i6NILoof7Sm0XWVX_LPzvLEGkrK5cqQW7qApzJvC8qNBj9RcHagbTqZFUwcPtRUWBKbEK4QUFVsxel4gXcYPX5s-oA4dHM5Vz4KQDmGnIUAVWspfxKGRgOYBLk-QmeFAdQw/m96u7yagf42v6qb/ESign_4.8.2_1702719720.ipa</string>
+                    <string> https://download1085.mediafire.com/3m0mylrayk6gWaV65A3szs3r_fGsIgG67zmG5m04U_NW9hdh_XhaH1kysdJN-4bo5UJp1w33T1OG3VCmfJBUqsaAdZ_hk9IbOxsifm_tPZJ8Im-WkNpjCVAHn304c8BERnCfm0uFSzlPXfS-dErcOFACbL56_tTXCp4ctTRNeQ/bdjvf39h3j1kvq7/YouTube_18.44.3_1702719639.ipa </string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>p3.xyz.yyyue.esign</string>
+                <string>com.google.ios.youtube</string>
                 <key>bundle-version</key>
-                <string>4.8.2</string>
+                <string>18.44.3</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ESign</string>
+                <string>YouTube</string>
             </dict>
         </dict>
     </array>

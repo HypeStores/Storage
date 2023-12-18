@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://download1509.mediafire.com/mme1rbohg1igi_NUE8TpbOH6CItuAFh5LxhDv26i6NILoof7Sm0XWVX_LPzvLEGkrK5cqQW7qApzJvC8qNBj9RcHagbTqZFUwcPtRUWBKbEK4QUFVsxel4gXcYPX5s-oA4dHM5Vz4KQDmGnIUAVWspfxKGRgOYBLk-QmeFAdQw/m96u7yagf42v6qb/ESign_4.8.2_1702719720.ipa</string>
+                    <string>https://download1074.mediafire.com/7vlxsqohhktgVs1EhngZ6Y35QTtJ11cntdMzEjdMAUhj_Gx7JaWHkE7orgoA03n1-Happ5z8XsUNectIRuiIEBpBtaK8ObzoN7r-Faw4EWEjCL7n8rsoQVfYPuLf5SwZ3_iy7HU6gH3ckV2N7GBjNFusVYnKqkkFYqVCI9gdaQ/bs10lwrk3pbh1zm/TikTok_32.0.0_1702719725.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>p3.xyz.yyyue.esign</string>
+                <string>com.zhiliaoapp.musically</string>
                 <key>bundle-version</key>
-                <string>4.8.2</string>
+                <string>32.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ESign</string>
+                <string>TikTok</string>
             </dict>
         </dict>
     </array>

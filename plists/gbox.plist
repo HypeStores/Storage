@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://download1509.mediafire.com/mme1rbohg1igi_NUE8TpbOH6CItuAFh5LxhDv26i6NILoof7Sm0XWVX_LPzvLEGkrK5cqQW7qApzJvC8qNBj9RcHagbTqZFUwcPtRUWBKbEK4QUFVsxel4gXcYPX5s-oA4dHM5Vz4KQDmGnIUAVWspfxKGRgOYBLk-QmeFAdQw/m96u7yagf42v6qb/ESign_4.8.2_1702719720.ipa</string>
+                    <string> https://download1085.mediafire.com/3l5d4r5f32bgFLDXRezZF2NX8eq1x63Feub3W-1i5X8mAnZ-OlNasEYm8NwSmRtQznGa-c-JEVXz73RGD9NVl7dVhvCr2QE2Vn_nzmph3KWnRaYIqPGyg4MVUqS4ceSMQZy6u8hwEzf7NGttXBZPRMXCvRHHcdsHdML-sU5trw/nm9lugb2hygh2ev/GBox_4.3.1_1702719719.ipa </string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>p3.xyz.yyyue.esign</string>
+                <string>com.ncs.gbox</string>
                 <key>bundle-version</key>
-                <string>4.8.2</string>
+                <string>4.3.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ESign</string>
+                <string>GBox</string>
             </dict>
         </dict>
     </array>
